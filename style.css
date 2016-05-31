@@ -1,0 +1,54 @@
+body {
+	background-color:#FFE;
+}
+
+h1 {
+	color: black;
+	font-size: 36px;
+	font-family: helvetica, sans-serif;
+}
+
+h2 {
+	color: #887;
+	font-size: 14px;
+	font-family: helvetica;
+	font-weight: bold;
+
+}
+
+h3 {
+	color: black;
+	font-size: 14px;
+	font-family: helvetica; sans-serif;
+}
+
+h4 {
+	color: #887;
+	font-size: 14px;
+	font-family: helvetica, sans-serif;
+}
+
+
+h5 {
+	color: black;
+	font-size: 12px;
+	font-family: helvetica, sans-serif;
+}
+
+
+
+p {
+	font-size: 24px;
+	font-family: helvetica;
+}
+
+li {color: black;
+	font-size: 12px;
+	font-family: helvetica, sans-serif;
+}
+
+a {	color: #887;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: helvetica, sans-serif;}
+
